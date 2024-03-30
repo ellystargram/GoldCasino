@@ -1,0 +1,42 @@
+﻿  BLACKJACK.c
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\BLACKJACK.c(85,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\BLACKJACK.c(411,2): warning C4033: 'dealerai_blackjack' must return a value
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\BLACKJACK.c(445,54): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\BLACKJACK.c(454,55): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\BLACKJACK.c(828,36): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\BLACKJACK.c(848,49): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  CASINO.c
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\CASINO.c(115,14): warning C4098: 'isbankrupt': 'void' function returning a value
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\CASINO.c(126,11): warning C4098: 'isbankrupt': 'void' function returning a value
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\CASINO.c(135,14): warning C4013: 'main_blackjack' undefined; assuming extern returning int
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\CASINO.c(138,14): warning C4013: 'main_VENTTI' undefined; assuming extern returning int
+  COMMON_FUNCTION.c
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(61,58): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(74,58): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(91,58): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(106,59): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(111,49): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(102,20): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(191,38): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(200,59): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(204,38): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(216,49): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(220,38): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(231,38): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(195,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\COMMON_FUNCTION.c(268,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  VENTTI.c
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\VENTTI.c(65,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\VENTTI.c(276,2): warning C4033: 'dealerai_VENTTI' must return a value
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\VENTTI.c(303,48): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\VENTTI.c(315,49): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'void *'
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\VENTTI.c(466,36): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\VENTTI.c(277): warning C4716: 'dealerai_VENTTI': must return a value
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\BLACKJACK.c(412): warning C4716: 'dealerai_blackjack': must return a value
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\VENTTI.c(518): warning C4715: 'main_VENTTI': not all control paths return a value
+C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\GOLD CASINO\BLACKJACK.c(1021): warning C4715: 'main_blackjack': not all control paths return a value
+  All 46 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GOLD CASINO.vcxproj -> C:\Users\6gioc\OneDrive\programing\CASINO\GOLD CASINO\x64\Release\GOLD CASINO.exe
